@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="Star history for n0bml/paad: 0 stars as of 2026-08-30">
-<title>Star history for n0bml/paad: 0 stars as of 2026-08-30</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="Star history for n0bml/paad: 0 stars as of 2026-08-31">
+<title>Star history for n0bml/paad: 0 stars as of 2026-08-31</title>
 <desc>Cumulative GitHub stars for n0bml/paad over time.</desc>
 <line x1="60" y1="350" x2="780" y2="350" stroke="#30363d" stroke-width="1"/>
 <text x="52" y="354" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0</text>
@@ -13,12 +13,12 @@
 <text x="52" y="98" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">80</text>
 <line x1="60" y1="30" x2="780" y2="30" stroke="#30363d" stroke-width="1"/>
 <text x="52" y="34" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">100</text>
-<text x="768" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 30</text>
-<text x="668" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 04</text>
-<text x="370" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">May 27</text>
+<text x="768" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 31</text>
+<text x="664" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 04</text>
+<text x="369" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">May 27</text>
 <text x="60" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Mar 16</text>
-<polyline fill="none" stroke="#e5533d" stroke-width="2" stroke-dasharray="5 4" points="60,347 64,340 69,337 77,334 99,331 112,328 142,324 194,321 202,318 207,315 215,312 314,302 366,299 370,296 392,289 396,280 452,276 487,270 491,257 495,251 517,248 521,244 586,241 599,238 603,232 608,228 612,216 616,187 620,168 625,158"/>
-<polyline fill="none" stroke="#e5533d" stroke-width="2" points="625,158 629,142 633,120 638,107 642,104 646,94 651,91 655,91 659,81 664,78 668,350 672,350 677,350 681,350 685,350 689,350 694,350 698,350 702,350 707,350 711,350 715,350 720,350 724,350 728,350 733,350 737,350 741,350 746,350 750,350 754,350 758,350 763,350 767,350 771,350 776,350 780,350"/>
+<polyline fill="none" stroke="#e5533d" stroke-width="2" stroke-dasharray="5 4" points="60,347 64,340 69,337 77,334 99,331 111,328 141,324 193,321 201,318 206,315 214,312 313,302 364,299 369,296 390,289 394,280 450,276 484,270 489,257 493,251 514,248 519,244 583,241 596,238 600,232 604,228 609,216 613,187 617,168 621,158"/>
+<polyline fill="none" stroke="#e5533d" stroke-width="2" points="621,158 626,142 630,120 634,107 639,104 643,94 647,91 651,91 656,81 660,78 664,350 669,350 673,350 677,350 681,350 686,350 690,350 694,350 699,350 703,350 707,350 711,350 716,350 720,350 724,350 729,350 733,350 737,350 741,350 746,350 750,350 754,350 759,350 763,350 767,350 771,350 776,350 780,350"/>
 <circle cx="780" cy="350" r="3.5" fill="#e5533d"/>
 <rect x="60" y="10" width="10" height="10" fill="#e5533d"/>
 <text x="76" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">n0bml/paad — dashed is reconstructed</text>
