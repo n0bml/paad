@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="Star history for n0bml/paad: 0 stars as of 2026-09-29">
-<title>Star history for n0bml/paad: 0 stars as of 2026-09-29</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="Star history for n0bml/paad: 0 stars as of 2026-09-30">
+<title>Star history for n0bml/paad: 0 stars as of 2026-09-30</title>
 <desc>Cumulative GitHub stars for n0bml/paad over time.</desc>
 <line x1="60" y1="350" x2="780" y2="350" stroke="#30363d" stroke-width="1"/>
 <text x="52" y="354" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0</text>
@@ -13,13 +13,14 @@
 <text x="52" y="98" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">80</text>
 <line x1="60" y1="30" x2="780" y2="30" stroke="#30363d" stroke-width="1"/>
 <text x="52" y="34" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">100</text>
-<text x="768" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Sep 29</text>
-<text x="641" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 22</text>
-<text x="572" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 03</text>
-<text x="429" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Jun 25</text>
+<text x="768" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Sep 30</text>
+<text x="707" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Sep 10</text>
+<text x="638" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 22</text>
+<text x="569" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Aug 03</text>
+<text x="427" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Jun 25</text>
 <text x="60" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Mar 16</text>
-<polyline fill="none" stroke="#e5533d" stroke-width="2" stroke-dasharray="5 4" points="60,347 64,340 67,337 75,334 93,331 104,328 129,324 173,321 181,318 184,315 192,312 276,302 319,299 323,296 341,289 345,280 393,276 422,270 425,257 429,251 447,248 451,244 506,241 517,238 521,232 524,228 528,216 531,187 535,168 539,158"/>
-<polyline fill="none" stroke="#e5533d" stroke-width="2" points="539,158 542,142 546,120 550,107 553,104 557,94 561,91 564,91 568,81 572,78 575,350 579,350 583,350 586,350 590,350 594,350 597,350 601,350 605,350 608,350 612,350 616,350 619,350 623,350 626,350 630,350 634,350 637,350 641,350 645,350 648,350 652,350 656,350 659,350 663,350 667,350 670,350 674,350 678,350 681,350 685,350 689,350 692,350 696,350 700,350 703,350 707,350 711,350 714,350 718,350 722,350 725,350 729,350 732,350 736,350 740,350 743,350 747,350 751,350 754,350 758,350 762,350 765,350 769,350 773,350 776,350 780,350"/>
+<polyline fill="none" stroke="#e5533d" stroke-width="2" stroke-dasharray="5 4" points="60,347 64,340 67,337 75,334 93,331 104,328 129,324 173,321 180,318 184,315 191,312 275,302 318,299 322,296 340,289 344,280 391,276 420,270 424,257 427,251 445,248 449,244 504,241 515,238 518,232 522,228 525,216 529,187 533,168 536,158"/>
+<polyline fill="none" stroke="#e5533d" stroke-width="2" points="536,158 540,142 544,120 547,107 551,104 555,94 558,91 562,91 565,81 569,78 573,350 576,350 580,350 584,350 587,350 591,350 595,350 598,350 602,350 605,350 609,350 613,350 616,350 620,350 624,350 627,350 631,350 635,350 638,350 642,350 645,350 649,350 653,350 656,350 660,350 664,350 667,350 671,350 675,350 678,350 682,350 685,350 689,350 693,350 696,350 700,350 704,350 707,350 711,350 715,350 718,350 722,350 725,350 729,350 733,350 736,350 740,350 744,350 747,350 751,350 755,350 758,350 762,350 765,350 769,350 773,350 776,350 780,350"/>
 <circle cx="780" cy="350" r="3.5" fill="#e5533d"/>
 <rect x="60" y="10" width="10" height="10" fill="#e5533d"/>
 <text x="76" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">n0bml/paad — dashed is reconstructed</text>
